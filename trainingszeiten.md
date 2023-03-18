@@ -5,8 +5,6 @@ date:   2023-03-18 11:23:56 +0100
 categories: Trainingsbetrieb
 ---
 
-An folgenden Tagen findet das Training im Sc Neptun statt:
-
 ## Trainingszeiten Winter Budenheim
 
 |Gruppe             |Trainingszeit|
