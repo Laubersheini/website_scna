@@ -1,9 +1,17 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Vorläufiges impressum"
 date:   2023-03-18 11:23:56 +0100
 categories: jekyll update
 ---
+
+Responsible for the content according to § 55 Abs. 2 RStV  
+Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV  
+
+David Anton Laubersheimer  
+In den Wiesen 3  
+55234 Hochborn  
+
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 Jekyll requires blog post files to be named according to the following format:

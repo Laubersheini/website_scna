@@ -4,3 +4,13 @@
 
 layout: home
 ---
+
+# Trainingszeiten
+
+Es wird geschwommen:
+
+| Gruppe         | Zeit     | Traininer|
+|--------------|-----------|------------|
+| T1|     18:30 - 19:15  |David |
+| T2      | **1.89**  | 5234       |
+| Aquagym      | **1.89**  | 5234       |
