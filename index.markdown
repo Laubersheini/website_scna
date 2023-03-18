@@ -4,6 +4,6 @@
 
 layout: home
 heading: Sc Neptun Alzey
-subheading: 
+subheading: ""
 ---
 
